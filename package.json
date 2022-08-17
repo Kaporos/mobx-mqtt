@@ -9,6 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "repository": "https://github.com/Kaporos/mobx-mqtt",
   "dependencies": {
     "mobx": "^6.6.1",
     "paho-mqtt": "^1.1.0",
